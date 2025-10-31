@@ -17,26 +17,29 @@
 </p>
 
 <p>
-  📣 للتواصل معي :<br/>
+  📣 Contact Me:<br/>
   <a href="mailto:shenouda.elea@example.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/shenoudaelea"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/shenoudaelea"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/shenoudaelea"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://twitter.com/shenoudaelea"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/shenoudaelea"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://twitch.tv/shenoudaelea"><img src="https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/></a>
+  <a href="https://itunes.apple.com/profile/shenoudaelea"><img src="https://img.shields.io/badge/iTunes-FA57C1.svg?style=for-the-badge&logo=Apple&logoColor=white"/></a>
 </p>
 
-<h3>⚡️ مرحباً، أنا شنودة ايليا ⚡️</h3>
+<h3>⚡️ Hi, I'm Shenouda Elea ⚡️</h3>
 <p>
-  👨‍💻 مطور برمجيات ومتعلم في : Python × JavaScript × تطوير الويب × علم البيانات.<br/>
-  🌍 أعمل على مشاريع مفتوحة المصدر وتطوير تطبيقات ويب تفاعلية.<br/>
-  🎯 أحب التعلم المستمر وتجربة تقنيات جديدة.<br/>
-  💡 أركز على بناء واجهات جذابة وتجارب مستخدم ممتازة.
+  👨‍💻 Software Developer learning Python × JavaScript × Web Development × Data Science.<br/>
+  🌍 I work on open-source projects and interactive web applications.<br/>
+  🎯 Passionate about continuous learning and experimenting with new technologies.<br/>
+  💡 Focused on building engaging interfaces and excellent user experiences.
 </p>
 
 <details>
-  <summary>📊 إحصائياتي على GitHub</summary><br/>
+  <summary>📊 GitHub Stats</summary><br/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShenoudaElea&show_icons=true)
 
-**🕒 الوقت الذي أمضيه في البرمجة:**
+**🕒 Time Spent Coding:**
 ```text
 Python                   ██████████ 40%
 JavaScript               ███████░░ 30%
