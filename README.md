@@ -26,7 +26,7 @@
   <a href="https://itunes.apple.com/profile/shenoudaelea"><img src="https://img.shields.io/badge/iTunes-FA57C1.svg?style=for-the-badge&logo=Apple&logoColor=white"/></a>
 </p>
 
-<h3>⚡️ Hi, I'm Shenouda Elea ⚡️</h3>
+<h3>⚡️ Hi, I'm Shenouda Elia ⚡️</h3>
 <p>
   👨‍💻 Software Developer learning Python × JavaScript × Web Development × Data Science.<br/>
   🌍 I work on open-source projects and interactive web applications.<br/>
